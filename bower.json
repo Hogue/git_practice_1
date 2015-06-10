@@ -1,0 +1,17 @@
+{
+  "name": "git_practice_1",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Hogue/git_practice_1",
+  "authors": [
+    "Hogue <ajhogue6@gmail.com>"
+  ],
+  "description": "lab runthrough",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

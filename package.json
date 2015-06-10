@@ -1,0 +1,19 @@
+{
+  "name": "git_practice_1",
+  "version": "1.0.0",
+  "description": "lab runthrough",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hogue/git_practice_1.git"
+  },
+  "author": "andrewhogue",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hogue/git_practice_1/issues"
+  },
+  "homepage": "https://github.com/Hogue/git_practice_1"
+}
