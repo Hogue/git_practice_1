@@ -1,0 +1,16 @@
+body {
+  background-color: rgba(189, 195, 199, 1.0);
+}
+
+div {
+  margin: 0 auto;
+  width: 400px;
+  height: 200px;
+  background-color: rgba(231, 76, 60, 1.0);
+}
+
+ul {
+  background-color: rgba(52, 73, 94, 1.0);
+  color: white;
+  list-style: none;
+}
